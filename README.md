@@ -50,8 +50,7 @@ webpack
 npm start
 ```
 ## Demo
-![alt text][demo]
-[demo]: http://gph.is/2viRd3B
+![](https://media.giphy.com/media/XufD9vxZ08QKI/giphy.gif)
 
 ## Built With
 
