@@ -49,6 +49,9 @@ webpack
 ```
 npm start
 ```
+## Demo
+![alt text][demo]
+[demo]: http://gph.is/2viRd3B
 
 ## Built With
 
