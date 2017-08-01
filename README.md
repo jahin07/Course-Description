@@ -29,6 +29,20 @@ node-sass-middleware
 react
 react-dom
 ```
+### Developer Dependencies
+
+```
+babel-cli
+babel-eslint
+babel-loader
+babel-preset-es2015
+babel-preset-react
+babel-preset-stage-2
+eslint
+eslint-plugin-react
+nodemon
+webpack
+```
 
 ## Deployment
 
